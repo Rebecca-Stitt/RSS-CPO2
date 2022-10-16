@@ -1,0 +1,24 @@
+{
+  "name": "rss-cpo2",
+  "version": "1.0.0",
+  "description": "npm dependencies ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index",
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rebecca-Stitt/RSS-CPO2.git"
+  },
+  "author": "Rebecca S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rebecca-Stitt/RSS-CPO2/issues"
+  },
+  "homepage": "https://github.com/Rebecca-Stitt/RSS-CPO2#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
